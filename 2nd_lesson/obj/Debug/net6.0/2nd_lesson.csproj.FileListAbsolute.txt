@@ -1,0 +1,15 @@
+/Users/anastasiyadubovik/Desktop/Обучение/C#/2nd_lesson/bin/Debug/net6.0/2nd_lesson
+/Users/anastasiyadubovik/Desktop/Обучение/C#/2nd_lesson/bin/Debug/net6.0/2nd_lesson.deps.json
+/Users/anastasiyadubovik/Desktop/Обучение/C#/2nd_lesson/bin/Debug/net6.0/2nd_lesson.runtimeconfig.json
+/Users/anastasiyadubovik/Desktop/Обучение/C#/2nd_lesson/bin/Debug/net6.0/2nd_lesson.dll
+/Users/anastasiyadubovik/Desktop/Обучение/C#/2nd_lesson/bin/Debug/net6.0/2nd_lesson.pdb
+/Users/anastasiyadubovik/Desktop/Обучение/C#/2nd_lesson/obj/Debug/net6.0/2nd_lesson.csproj.AssemblyReference.cache
+/Users/anastasiyadubovik/Desktop/Обучение/C#/2nd_lesson/obj/Debug/net6.0/2nd_lesson.GeneratedMSBuildEditorConfig.editorconfig
+/Users/anastasiyadubovik/Desktop/Обучение/C#/2nd_lesson/obj/Debug/net6.0/2nd_lesson.AssemblyInfoInputs.cache
+/Users/anastasiyadubovik/Desktop/Обучение/C#/2nd_lesson/obj/Debug/net6.0/2nd_lesson.AssemblyInfo.cs
+/Users/anastasiyadubovik/Desktop/Обучение/C#/2nd_lesson/obj/Debug/net6.0/2nd_lesson.csproj.CoreCompileInputs.cache
+/Users/anastasiyadubovik/Desktop/Обучение/C#/2nd_lesson/obj/Debug/net6.0/2nd_lesson.dll
+/Users/anastasiyadubovik/Desktop/Обучение/C#/2nd_lesson/obj/Debug/net6.0/refint/2nd_lesson.dll
+/Users/anastasiyadubovik/Desktop/Обучение/C#/2nd_lesson/obj/Debug/net6.0/2nd_lesson.pdb
+/Users/anastasiyadubovik/Desktop/Обучение/C#/2nd_lesson/obj/Debug/net6.0/2nd_lesson.genruntimeconfig.cache
+/Users/anastasiyadubovik/Desktop/Обучение/C#/2nd_lesson/obj/Debug/net6.0/ref/2nd_lesson.dll
